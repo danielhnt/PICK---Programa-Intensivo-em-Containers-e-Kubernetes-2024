@@ -4,23 +4,23 @@ O PICK é um programa intensivo em containers e Kubernetes que tem como objetivo
 
 ## Kubernetes
 
-### [Day 1 - Introdução ao Kubernetes](/Kubernetes/day_1/README.md)
+### [Day 1 - Introdução ao Kubernetes](/Kubernetes/day1/README.md)
 
-### [Day 2 - Pods](/Kubernetes/day_2/README.md)
+### [Day 2 - Pods](/Kubernetes/day2/README.md)
 
-### [Day 3 - Deployments](/Kubernetes/day_3/README.md)
+### [Day 3 - Deployments](/Kubernetes/day3/README.md)
 
-### [Day 4 - ReplicaSets](/Kubernetes/day_4/README.md)
+### [Day 4 - ReplicaSets](/Kubernetes/day4/README.md)
 
-### [Day 5 - Cluster Kubernetes e o Kubeadm](/Kubernetes/day_5/README.md)
+### [Day 5 - Cluster Kubernetes e o Kubeadm](/Kubernetes/day5/README.md)
 
-### [Day 6 - Volumes](/Kubernetes/day_6/README.md)
+### [Day 6 - Volumes](/Kubernetes/day6/README.md)
 
-### [Day 7 - StatefulSets e Services](/Kubernetes/day_7/README.md)
+### [Day 7 - StatefulSets e Services](/Kubernetes/day7/README.md)
 
-### [Day 8 - Secrets e ConfigMaps](/Kubernetes/day_8/README.md)
+### [Day 8 - Secrets e ConfigMaps](/Kubernetes/day8/README.md)
 
-### [Day 9 - Prometheus + Kubernetes](/Kubernetes/day_9/README.md)
+### [Day 9 - Prometheus + Kubernetes](/Kubernetes/day9/README.md)
 
 <br>
 
