@@ -22,6 +22,19 @@ O PICK é um programa intensivo em containers e Kubernetes que tem como objetivo
 
 ### [Day 9 - Prometheus + Kubernetes](/Kubernetes/day9/README.md)
 
+### [Day 10 - ServiceMonitor, PodMonitor e PrometheusRule](/Kubernetes/day10/README.md)
+
+### [Day 11 - Ingress e Contexts no Kubernetes](/Kubernetes/day11/README.md)
+
+### [Day 12 - Cert-Manager, Annotations e Labels](/Kubernetes/day12/README.md)
+
+### [Day 13 - Horizontal Pod Autoscaler(HPA), Metrics Server e Locust](/Kubernetes/day13/README.md)
+
+### [Day 14 - Policies no Kubernetes com Kyverno](/Kubernetes/day14/README.md)
+
+### [Day 15 - Taints, Tolerations e Node Affinity](/Kubernetes/day15/README.md)
+
+### [Day 16 - Network Policies e EKS](/Kubernetes/day16/README.md)
 <br>
 
 ## Tecnologias Utilizadas
